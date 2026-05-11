@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: mohammedhakim/python-docker-ex:latest
+          tags: mohammedhakim/devops-exr:latest
